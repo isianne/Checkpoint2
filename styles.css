@@ -1,0 +1,49 @@
+nav {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    padding: 10px 20px;
+  }
+  
+  .logo img {
+    width: 150px;
+    height: auto;
+    justify-content: left;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    align-items: right;
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(238, 39, 238);
+  }
+  
+  nav li {
+    margin-right: 50px;
+    text-align: right;
+    
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: rgb(240, 43, 240);
+    align-items: center;
+  }
+
+  body {
+    background-color: rgb(32, 27, 27);
+    color: white;font-family: ;
+    font-family: sans-serif;
+  }
+
+  
+  p {
+    color: white;
+  }
+
+  .connectors {
+    color: rgb(241, 55, 241);
+  }
